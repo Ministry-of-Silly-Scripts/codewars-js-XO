@@ -1,8 +1,8 @@
-# XXXXX kata
+# XO kata
 
-XXXXX kata performed by to practice TDD for the Jaguars training at IBM
+XO kata performed by to practice TDD for the Jaguars training at IBM
 
-[XXXXXX on CodeWars](https://www.codewars.com/kata/)
+[XO on CodeWars](https://www.codewars.com/kata/55908aad6620c066bc00002a/)
 
 ## Prerequisites
 

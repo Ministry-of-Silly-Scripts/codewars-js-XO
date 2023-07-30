@@ -1,5 +1,5 @@
-const placeholder = () => true;
+const XO = () => true;
 
 module.exports = {
-  placeholder,
+  XO,
 };
