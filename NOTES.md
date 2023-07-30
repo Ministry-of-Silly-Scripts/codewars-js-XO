@@ -15,8 +15,13 @@ XO("zzoo") => false
 ```
 
 ## Domain
+- input: string (can contain any char)
+- output: boolean
 
 ### Rules
+- case insensitive
+- count X and O
+- true if number of X equal to number of O, false otherwise
 
 ---
 
@@ -34,3 +39,4 @@ TODO:
   - update NOTES ✅
   - update package.json ✅
   - update code/test files ✅
+domain discussion ✅
