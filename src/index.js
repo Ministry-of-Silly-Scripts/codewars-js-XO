@@ -6,9 +6,7 @@ const XO = (str) => {
     if (str[i].toLowerCase() === 'o') total -= 1;
   }
 
-  if (total === 0) return true;
-
-  return false;
+  return total === 0;
 };
 
 module.exports = {
