@@ -15,10 +15,12 @@ XO("zzoo") => false
 ```
 
 ## Domain
+
 - input: string (can contain any char)
 - output: boolean
 
 ### Rules
+
 - case insensitive
 - count X and O
 - true if number of X equal to number of O, false otherwise
@@ -46,3 +48,7 @@ TODO:
 - it should return false for input equal to "xxo" ✅
 - it should return true for input equal to "xxoo" ✅
 - it should return true for input equal to "ooxXm" ✅
+
+# Pomodoro 2 🍅:
+
+- it should return true for input equal to "zpzpzpp" ✅

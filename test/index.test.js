@@ -26,4 +26,8 @@ describe('XO', () => {
   it('should return true for input equal to "ooxXm"', () => {
     expect(XO('ooxXm')).toBe(true);
   });
+
+  it('should return true for input equal to "zpzpzpp"', () => {
+    expect(XO('zpzpzpp')).toBe(true);
+  });
 });
