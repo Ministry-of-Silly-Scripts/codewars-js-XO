@@ -44,3 +44,5 @@ TODO:
 - it should return false for input equal to "o" ✅
 - it should return true for input equal to "xo" ✅
 - it should return false for input equal to "xxo" ✅
+- it should return true for input equal to "xxoo" ✅
+- it should return true for input equal to "ooxXm" ✅
