@@ -10,4 +10,8 @@ describe('XO', () => {
   it('should return false for input equal to "o"', () => {
     expect(XO('o')).toBe(false);
   });
+
+  it('should return true for input equal to "xo"', () => {
+    expect(XO('xo')).toBe(true);
+  });
 });
