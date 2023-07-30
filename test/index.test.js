@@ -14,4 +14,8 @@ describe('XO', () => {
   it('should return true for input equal to "xo"', () => {
     expect(XO('xo')).toBe(true);
   });
+
+  it('should return false for input equal to "xxo"', () => {
+    expect(XO('xxo')).toBe(false);
+  });
 });
