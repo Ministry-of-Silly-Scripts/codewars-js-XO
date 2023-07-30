@@ -6,6 +6,8 @@ describe('the XO canary spec', () => {
   });
 });
 
-// test('XO', () => {
-//   expect(XO(0)).toBe(true);
-// });
+describe('XO', () => {
+  it('should return false for input equal to "o"', () => {
+    expect(XO('o')).toBe(false);
+  });
+});

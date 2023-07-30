@@ -1,4 +1,4 @@
-const XO = () => true;
+const XO = () => false;
 
 module.exports = {
   XO,
